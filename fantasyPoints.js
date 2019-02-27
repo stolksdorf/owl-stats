@@ -26,21 +26,6 @@ const multipliers = {
 	},
 }
 
-//TODO: change this to a single record
-// module.exports = (records)=>{
-// 	return records.map((record)=>{
-// 		const {name, role, week} = record;
-// 		const mults = multipliers[role];
-
-// 		const points = ['elims','deaths','damage','healing','ults','final_blows'].reduce((total, stat)=>{
-// 			return total + Math.round(record[stat] * mults[stat]);
-// 		}, 0);
-
-// 		return { name, role, week, points };
-// 	});
-// };
-
-
 module.exports = (record)=>{
 	const mults = multipliers[record.role];
 	return ['elims','deaths','damage','healing','ults','final_blows'].reduce((total, stat)=>{

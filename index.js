@@ -1,4 +1,3 @@
-
 const OWL = require('./owl.api.js');
 const Gist = require('./gist.api.js');
 const tsv = require('./tsv.convert.js');
@@ -11,12 +10,16 @@ const getWeek = require('./getSeasonWeek.js');
 const currentWeek = `Week ${getWeek()}`
 
 
+const saveJSON = (name, data)=>fs.writeFileSync(name, JSON.stringify(data, null, '\t'), 'utf8');
+const saveTSV = (name, data)=>fs.writeFileSync(name, tsv.toTSV(data), 'utf8');
+
+
 console.log('Fetching Season Stast from OWL: ', currentWeek);
 
 OWL.fetch(currentWeek)
 	.then((seasonData)=>{
-		fs.writeFileSync(`./backup/week${getWeek()}-raw.json`, JSON.stringify(seasonData, null, '\t'), 'utf8');
-		fs.writeFileSync(`./backup/week${getWeek()}-raw.tsv`, tsv.toTSV(seasonData), 'utf8');
+		saveJSON(`./backup/week${getWeek()}-raw.json`,seasonData);
+		saveTSV(`./backup/week${getWeek()}-raw.tsv`, seasonData);
 
 		console.log('Fetching stats from gist');
 		return Gist.fetchStats()
@@ -27,6 +30,7 @@ OWL.fetch(currentWeek)
 	})
 	.then((updatedSnapshots)=>{
 		console.log('Updating gist with new stats');
+		saveTSV(`./backup/season_stats.tsv`, updatedSnapshots);
 		return Gist.updateStats(updatedSnapshots)
 			.then(()=>updatedSnapshots)
 	})
@@ -39,6 +43,7 @@ OWL.fetch(currentWeek)
 			}
 		});
 		console.log('Updating gist with new points');
+		saveTSV(`./backup/fantasy_points.tsv`, points);
 		return Gist.updatePoints(points);
 	})
 	.then(()=>{
