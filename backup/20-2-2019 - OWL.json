@@ -1,0 +1,4311 @@
+[
+
+{
+
+
+"name": "Ado",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 17,
+
+
+"deaths": 12,
+
+
+"damage": 10129,
+
+
+"healing": 24064,
+
+
+"ults": 13,
+
+
+"final_blows": 4
+
+},
+
+{
+
+
+"name": "Agilities",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 138,
+
+
+"deaths": 39,
+
+
+"damage": 49837,
+
+
+"healing": 69879,
+
+
+"ults": 40,
+
+
+"final_blows": 31
+
+},
+
+{
+
+
+"name": "Aid",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 120,
+
+
+"deaths": 41,
+
+
+"damage": 50022,
+
+
+"healing": 68345,
+
+
+"ults": 30,
+
+
+"final_blows": 26
+
+},
+
+{
+
+
+"name": "AimGod",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 177,
+
+
+"deaths": 66,
+
+
+"damage": 99477,
+
+
+"healing": 127049,
+
+
+"ults": 60,
+
+
+"final_blows": 51
+
+},
+
+{
+
+
+"name": "aKm",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 111,
+
+
+"deaths": 25,
+
+
+"damage": 61085,
+
+
+"healing": 480,
+
+
+"ults": 33,
+
+
+"final_blows": 34
+
+},
+
+{
+
+
+"name": "alemao",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 36,
+
+
+"deaths": 13,
+
+
+"damage": 13227,
+
+
+"healing": 13770,
+
+
+"ults": 9,
+
+
+"final_blows": 5
+
+},
+
+{
+
+
+"name": "ameng",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 90,
+
+
+"deaths": 44,
+
+
+"damage": 47479,
+
+
+"healing": 0,
+
+
+"ults": 30,
+
+
+"final_blows": 29
+
+},
+
+{
+
+
+"name": "Anamo",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 167,
+
+
+"deaths": 16,
+
+
+"damage": 43710,
+
+
+"healing": 55854,
+
+
+"ults": 32,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "Architect",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 188,
+
+
+"deaths": 47,
+
+
+"damage": 59580,
+
+
+"healing": 88067,
+
+
+"ults": 51,
+
+
+"final_blows": 44
+
+},
+
+{
+
+
+"name": "Axxiom",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 202,
+
+
+"deaths": 71,
+
+
+"damage": 105207,
+
+
+"healing": 0,
+
+
+"ults": 52,
+
+
+"final_blows": 49
+
+},
+
+{
+
+
+"name": "Baconjack",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 30,
+
+
+"deaths": 19,
+
+
+"damage": 17071,
+
+
+"healing": 62,
+
+
+"ults": 11,
+
+
+"final_blows": 17
+
+},
+
+{
+
+
+"name": "Bazzi",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 222,
+
+
+"deaths": 75,
+
+
+"damage": 76205,
+
+
+"healing": 93048,
+
+
+"ults": 60,
+
+
+"final_blows": 53
+
+},
+
+{
+
+
+"name": "Bdosin",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 154,
+
+
+"deaths": 45,
+
+
+"damage": 77944,
+
+
+"healing": 67551,
+
+
+"ults": 40,
+
+
+"final_blows": 38
+
+},
+
+{
+
+
+"name": "BEBE",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 159,
+
+
+"deaths": 43,
+
+
+"damage": 74723,
+
+
+"healing": 96515,
+
+
+"ults": 50,
+
+
+"final_blows": 32
+
+},
+
+{
+
+
+"name": "BenBest",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 56,
+
+
+"deaths": 27,
+
+
+"damage": 28822,
+
+
+"healing": 0,
+
+
+"ults": 19,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "BigG00se",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 171,
+
+
+"deaths": 60,
+
+
+"damage": 60491,
+
+
+"healing": 57866,
+
+
+"ults": 40,
+
+
+"final_blows": 38
+
+},
+
+{
+
+
+"name": "BIRDRING",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 133,
+
+
+"deaths": 36,
+
+
+"damage": 71464,
+
+
+"healing": 95,
+
+
+"ults": 31,
+
+
+"final_blows": 51
+
+},
+
+{
+
+
+"name": "blase",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 180,
+
+
+"deaths": 77,
+
+
+"damage": 64030,
+
+
+"healing": 118760,
+
+
+"ults": 66,
+
+
+"final_blows": 40
+
+},
+
+{
+
+
+"name": "Boink",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 197,
+
+
+"deaths": 66,
+
+
+"damage": 59785,
+
+
+"healing": 93659,
+
+
+"ults": 53,
+
+
+"final_blows": 39
+
+},
+
+{
+
+
+"name": "Boombox",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 225,
+
+
+"deaths": 63,
+
+
+"damage": 93062,
+
+
+"healing": 98249,
+
+
+"ults": 65,
+
+
+"final_blows": 54
+
+},
+
+{
+
+
+"name": "bqb",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 89,
+
+
+"deaths": 31,
+
+
+"damage": 48937,
+
+
+"healing": 756,
+
+
+"ults": 22,
+
+
+"final_blows": 30
+
+},
+
+{
+
+
+"name": "BUMPER",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 77,
+
+
+"deaths": 26,
+
+
+"damage": 32088,
+
+
+"healing": 0,
+
+
+"ults": 20,
+
+
+"final_blows": 28
+
+},
+
+{
+
+
+"name": "carpe",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 263,
+
+
+"deaths": 56,
+
+
+"damage": 118006,
+
+
+"healing": 244,
+
+
+"ults": 50,
+
+
+"final_blows": 88
+
+},
+
+{
+
+
+"name": "Chara",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 105,
+
+
+"deaths": 29,
+
+
+"damage": 35319,
+
+
+"healing": 35363,
+
+
+"ults": 21,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "Choihyobin",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 185,
+
+
+"deaths": 28,
+
+
+"damage": 62089,
+
+
+"healing": 290,
+
+
+"ults": 31,
+
+
+"final_blows": 61
+
+},
+
+{
+
+
+"name": "Closer",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 110,
+
+
+"deaths": 37,
+
+
+"damage": 38409,
+
+
+"healing": 55170,
+
+
+"ults": 29,
+
+
+"final_blows": 10
+
+},
+
+{
+
+
+"name": "CoMa",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 74,
+
+
+"deaths": 48,
+
+
+"damage": 28675,
+
+
+"healing": 52636,
+
+
+"ults": 26,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "coolmatt",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 212,
+
+
+"deaths": 52,
+
+
+"damage": 97989,
+
+
+"healing": 21,
+
+
+"ults": 52,
+
+
+"final_blows": 55
+
+},
+
+{
+
+
+"name": "Corey",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 25,
+
+
+"deaths": 16,
+
+
+"damage": 23644,
+
+
+"healing": 0,
+
+
+"ults": 12,
+
+
+"final_blows": 9
+
+},
+
+{
+
+
+"name": "Daco",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 175,
+
+
+"deaths": 32,
+
+
+"damage": 59183,
+
+
+"healing": 5,
+
+
+"ults": 17,
+
+
+"final_blows": 47
+
+},
+
+{
+
+
+"name": "dafran",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 243,
+
+
+"deaths": 65,
+
+
+"damage": 120368,
+
+
+"healing": 185,
+
+
+"ults": 56,
+
+
+"final_blows": 93
+
+},
+
+{
+
+
+"name": "Danteh",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 298,
+
+
+"deaths": 64,
+
+
+"damage": 156447,
+
+
+"healing": 11991,
+
+
+"ults": 78,
+
+
+"final_blows": 84
+
+},
+
+{
+
+
+"name": "DDing",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 104,
+
+
+"deaths": 34,
+
+
+"damage": 51245,
+
+
+"healing": 22114,
+
+
+"ults": 35,
+
+
+"final_blows": 35
+
+},
+
+{
+
+
+"name": "diem",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 143,
+
+
+"deaths": 59,
+
+
+"damage": 82296,
+
+
+"healing": 313,
+
+
+"ults": 49,
+
+
+"final_blows": 70
+
+},
+
+{
+
+
+"name": "Dogman",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 136,
+
+
+"deaths": 54,
+
+
+"damage": 51712,
+
+
+"healing": 57296,
+
+
+"ults": 35,
+
+
+"final_blows": 43
+
+},
+
+{
+
+
+"name": "EFFECT",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 92,
+
+
+"deaths": 37,
+
+
+"damage": 56839,
+
+
+"healing": 0,
+
+
+"ults": 28,
+
+
+"final_blows": 34
+
+},
+
+{
+
+
+"name": "Eileen",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 129,
+
+
+"deaths": 28,
+
+
+"damage": 48625,
+
+
+"healing": 13078,
+
+
+"ults": 34,
+
+
+"final_blows": 42
+
+},
+
+{
+
+
+"name": "Elsa",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 108,
+
+
+"deaths": 28,
+
+
+"damage": 49701,
+
+
+"healing": 124,
+
+
+"ults": 23,
+
+
+"final_blows": 42
+
+},
+
+{
+
+
+"name": "Envy",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 168,
+
+
+"deaths": 34,
+
+
+"damage": 54972,
+
+
+"healing": 875,
+
+
+"ults": 28,
+
+
+"final_blows": 45
+
+},
+
+{
+
+
+"name": "eqo",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 243,
+
+
+"deaths": 64,
+
+
+"damage": 67503,
+
+
+"healing": 101269,
+
+
+"ults": 52,
+
+
+"final_blows": 48
+
+},
+
+{
+
+
+"name": "Erster",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 218,
+
+
+"deaths": 51,
+
+
+"damage": 67855,
+
+
+"healing": 58101,
+
+
+"ults": 46,
+
+
+"final_blows": 58
+
+},
+
+{
+
+
+"name": "Fahzix",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 2,
+
+
+"deaths": 5,
+
+
+"damage": 6247,
+
+
+"healing": 9895,
+
+
+"ults": 4,
+
+
+"final_blows": 0
+
+},
+
+{
+
+
+"name": "Fate",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 123,
+
+
+"deaths": 43,
+
+
+"damage": 60617,
+
+
+"healing": 0,
+
+
+"ults": 33,
+
+
+"final_blows": 38
+
+},
+
+{
+
+
+"name": "Finnsi",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 88,
+
+
+"deaths": 17,
+
+
+"damage": 22911,
+
+
+"healing": 0,
+
+
+"ults": 19,
+
+
+"final_blows": 15
+
+},
+
+{
+
+
+"name": "Fissure",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 179,
+
+
+"deaths": 57,
+
+
+"damage": 85310,
+
+
+"healing": 0,
+
+
+"ults": 46,
+
+
+"final_blows": 68
+
+},
+
+{
+
+
+"name": "Fleta",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 210,
+
+
+"deaths": 44,
+
+
+"damage": 109043,
+
+
+"healing": 7556,
+
+
+"ults": 44,
+
+
+"final_blows": 70
+
+},
+
+{
+
+
+"name": "Fury",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 195,
+
+
+"deaths": 34,
+
+
+"damage": 69685,
+
+
+"healing": 426,
+
+
+"ults": 36,
+
+
+"final_blows": 64
+
+},
+
+{
+
+
+"name": "Fusions",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 175,
+
+
+"deaths": 94,
+
+
+"damage": 100666,
+
+
+"healing": 0,
+
+
+"ults": 57,
+
+
+"final_blows": 59
+
+},
+
+{
+
+
+"name": "Gamsu",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 58,
+
+
+"deaths": 31,
+
+
+"damage": 25092,
+
+
+"healing": 0,
+
+
+"ults": 14,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "Gator",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 16,
+
+
+"deaths": 7,
+
+
+"damage": 7979,
+
+
+"healing": 0,
+
+
+"ults": 5,
+
+
+"final_blows": 7
+
+},
+
+{
+
+
+"name": "Geguri",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 133,
+
+
+"deaths": 47,
+
+
+"damage": 50376,
+
+
+"healing": 0,
+
+
+"ults": 28,
+
+
+"final_blows": 35
+
+},
+
+{
+
+
+"name": "Gesture",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 146,
+
+
+"deaths": 62,
+
+
+"damage": 62620,
+
+
+"healing": 0,
+
+
+"ults": 36,
+
+
+"final_blows": 43
+
+},
+
+{
+
+
+"name": "Gido",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 19,
+
+
+"deaths": 13,
+
+
+"damage": 21986,
+
+
+"healing": 25699,
+
+
+"ults": 12,
+
+
+"final_blows": 6
+
+},
+
+{
+
+
+"name": "GodsB",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 255,
+
+
+"deaths": 57,
+
+
+"damage": 120560,
+
+
+"healing": 961,
+
+
+"ults": 51,
+
+
+"final_blows": 83
+
+},
+
+{
+
+
+"name": "Guard",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 53,
+
+
+"deaths": 11,
+
+
+"damage": 22983,
+
+
+"healing": 166,
+
+
+"ults": 13,
+
+
+"final_blows": 14
+
+},
+
+{
+
+
+"name": "Guxue",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 56,
+
+
+"deaths": 25,
+
+
+"damage": 35213,
+
+
+"healing": 0,
+
+
+"ults": 21,
+
+
+"final_blows": 15
+
+},
+
+{
+
+
+"name": "HaGoPeun",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 73,
+
+
+"deaths": 24,
+
+
+"damage": 33836,
+
+
+"healing": 43239,
+
+
+"ults": 21,
+
+
+"final_blows": 18
+
+},
+
+{
+
+
+"name": "Haksal",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 93,
+
+
+"deaths": 19,
+
+
+"damage": 24846,
+
+
+"healing": 31195,
+
+
+"ults": 16,
+
+
+"final_blows": 28
+
+},
+
+{
+
+
+"name": "Happy",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 119,
+
+
+"deaths": 32,
+
+
+"damage": 47713,
+
+
+"healing": 19290,
+
+
+"ults": 28,
+
+
+"final_blows": 47
+
+},
+
+{
+
+
+"name": "HOTBA",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 134,
+
+
+"deaths": 24,
+
+
+"damage": 50637,
+
+
+"healing": 0,
+
+
+"ults": 25,
+
+
+"final_blows": 47
+
+},
+
+{
+
+
+"name": "Hydration",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 184,
+
+
+"deaths": 69,
+
+
+"damage": 73194,
+
+
+"healing": 110229,
+
+
+"ults": 66,
+
+
+"final_blows": 35
+
+},
+
+{
+
+
+"name": "Hyeonu",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 10,
+
+
+"deaths": 8,
+
+
+"damage": 4171,
+
+
+"healing": 10540,
+
+
+"ults": 5,
+
+
+"final_blows": 2
+
+},
+
+{
+
+
+"name": "HyP",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 70,
+
+
+"deaths": 19,
+
+
+"damage": 26571,
+
+
+"healing": 39921,
+
+
+"ults": 19,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "iDK",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 171,
+
+
+"deaths": 50,
+
+
+"damage": 57214,
+
+
+"healing": 73543,
+
+
+"ults": 42,
+
+
+"final_blows": 37
+
+},
+
+{
+
+
+"name": "ivy",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 171,
+
+
+"deaths": 39,
+
+
+"damage": 76069,
+
+
+"healing": 0,
+
+
+"ults": 33,
+
+
+"final_blows": 64
+
+},
+
+{
+
+
+"name": "IZaYaKI",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 120,
+
+
+"deaths": 32,
+
+
+"damage": 59143,
+
+
+"healing": 73926,
+
+
+"ults": 38,
+
+
+"final_blows": 33
+
+},
+
+{
+
+
+"name": "Jake",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 75,
+
+
+"deaths": 18,
+
+
+"damage": 27163,
+
+
+"healing": 9899,
+
+
+"ults": 16,
+
+
+"final_blows": 23
+
+},
+
+{
+
+
+"name": "Janus",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 13,
+
+
+"deaths": 19,
+
+
+"damage": 12106,
+
+
+"healing": 0,
+
+
+"ults": 7,
+
+
+"final_blows": 7
+
+},
+
+{
+
+
+"name": "Jecse",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 153,
+
+
+"deaths": 39,
+
+
+"damage": 38692,
+
+
+"healing": 60742,
+
+
+"ults": 31,
+
+
+"final_blows": 23
+
+},
+
+{
+
+
+"name": "JinMu",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 88,
+
+
+"deaths": 44,
+
+
+"damage": 43412,
+
+
+"healing": 39114,
+
+
+"ults": 34,
+
+
+"final_blows": 29
+
+},
+
+{
+
+
+"name": "JJANU",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 104,
+
+
+"deaths": 9,
+
+
+"damage": 26824,
+
+
+"healing": 0,
+
+
+"ults": 8,
+
+
+"final_blows": 29
+
+},
+
+{
+
+
+"name": "JJONAK",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 168,
+
+
+"deaths": 29,
+
+
+"damage": 77018,
+
+
+"healing": 71157,
+
+
+"ults": 37,
+
+
+"final_blows": 56
+
+},
+
+{
+
+
+"name": "KariV",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 109,
+
+
+"deaths": 24,
+
+
+"damage": 56693,
+
+
+"healing": 0,
+
+
+"ults": 23,
+
+
+"final_blows": 36
+
+},
+
+{
+
+
+"name": "Kellex",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 117,
+
+
+"deaths": 49,
+
+
+"damage": 48588,
+
+
+"healing": 68067,
+
+
+"ults": 35,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "Kodak",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 55,
+
+
+"deaths": 20,
+
+
+"damage": 25453,
+
+
+"healing": 38355,
+
+
+"ults": 18,
+
+
+"final_blows": 15
+
+},
+
+{
+
+
+"name": "Kris",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 64,
+
+
+"deaths": 25,
+
+
+"damage": 18745,
+
+
+"healing": 21682,
+
+
+"ults": 12,
+
+
+"final_blows": 9
+
+},
+
+{
+
+
+"name": "Kruise",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 62,
+
+
+"deaths": 23,
+
+
+"damage": 20552,
+
+
+"healing": 20678,
+
+
+"ults": 14,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "KSF",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 42,
+
+
+"deaths": 6,
+
+
+"damage": 22496,
+
+
+"healing": 0,
+
+
+"ults": 10,
+
+
+"final_blows": 14
+
+},
+
+{
+
+
+"name": "KuKi",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 104,
+
+
+"deaths": 32,
+
+
+"damage": 28942,
+
+
+"healing": 46708,
+
+
+"ults": 23,
+
+
+"final_blows": 20
+
+},
+
+{
+
+
+"name": "Kyo",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 80,
+
+
+"deaths": 35,
+
+
+"damage": 36590,
+
+
+"healing": 55858,
+
+
+"ults": 30,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "lateyoung",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 64,
+
+
+"deaths": 21,
+
+
+"damage": 33762,
+
+
+"healing": 1189,
+
+
+"ults": 17,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "Libero",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 172,
+
+
+"deaths": 36,
+
+
+"damage": 45760,
+
+
+"healing": 68779,
+
+
+"ults": 42,
+
+
+"final_blows": 40
+
+},
+
+{
+
+
+"name": "LiNkzr",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 210,
+
+
+"deaths": 71,
+
+
+"damage": 74762,
+
+
+"healing": 77694,
+
+
+"ults": 58,
+
+
+"final_blows": 56
+
+},
+
+{
+
+
+"name": "Luffy",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 124,
+
+
+"deaths": 52,
+
+
+"damage": 69754,
+
+
+"healing": 77215,
+
+
+"ults": 39,
+
+
+"final_blows": 27
+
+},
+
+{
+
+
+"name": "Mano",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 163,
+
+
+"deaths": 42,
+
+
+"damage": 69188,
+
+
+"healing": 0,
+
+
+"ults": 44,
+
+
+"final_blows": 44
+
+},
+
+{
+
+
+"name": "Masaa",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 187,
+
+
+"deaths": 61,
+
+
+"damage": 58097,
+
+
+"healing": 70239,
+
+
+"ults": 41,
+
+
+"final_blows": 39
+
+},
+
+{
+
+
+"name": "MekO",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 188,
+
+
+"deaths": 22,
+
+
+"damage": 65915,
+
+
+"healing": 161,
+
+
+"ults": 31,
+
+
+"final_blows": 55
+
+},
+
+{
+
+
+"name": "Michelle",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 218,
+
+
+"deaths": 30,
+
+
+"damage": 77760,
+
+
+"healing": 478,
+
+
+"ults": 28,
+
+
+"final_blows": 46
+
+},
+
+{
+
+
+"name": "moth",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 161,
+
+
+"deaths": 43,
+
+
+"damage": 45775,
+
+
+"healing": 87172,
+
+
+"ults": 43,
+
+
+"final_blows": 30
+
+},
+
+{
+
+
+"name": "Muma",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 257,
+
+
+"deaths": 83,
+
+
+"damage": 110974,
+
+
+"healing": 0,
+
+
+"ults": 62,
+
+
+"final_blows": 81
+
+},
+
+{
+
+
+"name": "Munchkin",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 181,
+
+
+"deaths": 58,
+
+
+"damage": 60707,
+
+
+"healing": 81625,
+
+
+"ults": 52,
+
+
+"final_blows": 37
+
+},
+
+{
+
+
+"name": "Nenne",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 209,
+
+
+"deaths": 21,
+
+
+"damage": 103533,
+
+
+"healing": 0,
+
+
+"ults": 44,
+
+
+"final_blows": 68
+
+},
+
+{
+
+
+"name": "neptuNo",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 211,
+
+
+"deaths": 60,
+
+
+"damage": 59284,
+
+
+"healing": 59596,
+
+
+"ults": 39,
+
+
+"final_blows": 47
+
+},
+
+{
+
+
+"name": "Nevix",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 35,
+
+
+"deaths": 10,
+
+
+"damage": 15819,
+
+
+"healing": 0,
+
+
+"ults": 9,
+
+
+"final_blows": 10
+
+},
+
+{
+
+
+"name": "NiCOgdh",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 70,
+
+
+"deaths": 23,
+
+
+"damage": 19130,
+
+
+"healing": 38327,
+
+
+"ults": 18,
+
+
+"final_blows": 16
+
+},
+
+{
+
+
+"name": "NLaaeR",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 68,
+
+
+"deaths": 30,
+
+
+"damage": 21172,
+
+
+"healing": 30281,
+
+
+"ults": 19,
+
+
+"final_blows": 13
+
+},
+
+{
+
+
+"name": "NoSmite",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 142,
+
+
+"deaths": 50,
+
+
+"damage": 55332,
+
+
+"healing": 0,
+
+
+"ults": 34,
+
+
+"final_blows": 40
+
+},
+
+{
+
+
+"name": "NotE",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 214,
+
+
+"deaths": 61,
+
+
+"damage": 94255,
+
+
+"healing": 0,
+
+
+"ults": 57,
+
+
+"final_blows": 77
+
+},
+
+{
+
+
+"name": "NUS",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 130,
+
+
+"deaths": 37,
+
+
+"damage": 38957,
+
+
+"healing": 63524,
+
+
+"ults": 34,
+
+
+"final_blows": 17
+
+},
+
+{
+
+
+"name": "OGE",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 120,
+
+
+"deaths": 64,
+
+
+"damage": 68418,
+
+
+"healing": 0,
+
+
+"ults": 38,
+
+
+"final_blows": 43
+
+},
+
+{
+
+
+"name": "Poko",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 234,
+
+
+"deaths": 42,
+
+
+"damage": 81860,
+
+
+"healing": 0,
+
+
+"ults": 47,
+
+
+"final_blows": 74
+
+},
+
+{
+
+
+"name": "Pokpo",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 186,
+
+
+"deaths": 70,
+
+
+"damage": 77555,
+
+
+"healing": 0,
+
+
+"ults": 44,
+
+
+"final_blows": 54
+
+},
+
+{
+
+
+"name": "Profit",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 165,
+
+
+"deaths": 46,
+
+
+"damage": 55265,
+
+
+"healing": 82728,
+
+
+"ults": 49,
+
+
+"final_blows": 49
+
+},
+
+{
+
+
+"name": "Rascal",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 35,
+
+
+"deaths": 14,
+
+
+"damage": 14447,
+
+
+"healing": 11467,
+
+
+"ults": 8,
+
+
+"final_blows": 11
+
+},
+
+{
+
+
+"name": "Rawkus",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 201,
+
+
+"deaths": 72,
+
+
+"damage": 101253,
+
+
+"healing": 127858,
+
+
+"ults": 64,
+
+
+"final_blows": 58
+
+},
+
+{
+
+
+"name": "rCk",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 108,
+
+
+"deaths": 28,
+
+
+"damage": 54785,
+
+
+"healing": 216,
+
+
+"ults": 36,
+
+
+"final_blows": 29
+
+},
+
+{
+
+
+"name": "Revenge",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 32,
+
+
+"deaths": 13,
+
+
+"damage": 18968,
+
+
+"healing": 31959,
+
+
+"ults": 15,
+
+
+"final_blows": 6
+
+},
+
+{
+
+
+"name": "Ria",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 256,
+
+
+"deaths": 55,
+
+
+"damage": 85739,
+
+
+"healing": 0,
+
+
+"ults": 39,
+
+
+"final_blows": 76
+
+},
+
+{
+
+
+"name": "Rio",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 133,
+
+
+"deaths": 34,
+
+
+"damage": 51888,
+
+
+"healing": 0,
+
+
+"ults": 34,
+
+
+"final_blows": 38
+
+},
+
+{
+
+
+"name": "rOar",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 196,
+
+
+"deaths": 71,
+
+
+"damage": 110011,
+
+
+"healing": 0,
+
+
+"ults": 65,
+
+
+"final_blows": 63
+
+},
+
+{
+
+
+"name": "RoKy",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 91,
+
+
+"deaths": 36,
+
+
+"damage": 28410,
+
+
+"healing": 44290,
+
+
+"ults": 22,
+
+
+"final_blows": 11
+
+},
+
+{
+
+
+"name": "ryujehong",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 167,
+
+
+"deaths": 40,
+
+
+"damage": 69137,
+
+
+"healing": 110749,
+
+
+"ults": 54,
+
+
+"final_blows": 45
+
+},
+
+{
+
+
+"name": "Sado",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 239,
+
+
+"deaths": 77,
+
+
+"damage": 90580,
+
+
+"healing": 0,
+
+
+"ults": 46,
+
+
+"final_blows": 68
+
+},
+
+{
+
+
+"name": "Sansam",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 23,
+
+
+"deaths": 13,
+
+
+"damage": 11770,
+
+
+"healing": 0,
+
+
+"ults": 6,
+
+
+"final_blows": 4
+
+},
+
+{
+
+
+"name": "SeoMinSoo",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 77,
+
+
+"deaths": 10,
+
+
+"damage": 33050,
+
+
+"healing": 0,
+
+
+"ults": 12,
+
+
+"final_blows": 32
+
+},
+
+{
+
+
+"name": "Shaz",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 175,
+
+
+"deaths": 56,
+
+
+"damage": 106422,
+
+
+"healing": 139471,
+
+
+"ults": 70,
+
+
+"final_blows": 49
+
+},
+
+{
+
+
+"name": "shu",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 118,
+
+
+"deaths": 24,
+
+
+"damage": 40633,
+
+
+"healing": 64520,
+
+
+"ults": 34,
+
+
+"final_blows": 30
+
+},
+
+{
+
+
+"name": "sinatraa",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 196,
+
+
+"deaths": 40,
+
+
+"damage": 120967,
+
+
+"healing": 6320,
+
+
+"ults": 52,
+
+
+"final_blows": 62
+
+},
+
+{
+
+
+"name": "sleepy",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 182,
+
+
+"deaths": 36,
+
+
+"damage": 96011,
+
+
+"healing": 136499,
+
+
+"ults": 64,
+
+
+"final_blows": 43
+
+},
+
+{
+
+
+"name": "SLIME",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 69,
+
+
+"deaths": 9,
+
+
+"damage": 15926,
+
+
+"healing": 31720,
+
+
+"ults": 14,
+
+
+"final_blows": 11
+
+},
+
+{
+
+
+"name": "Smurf",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 61,
+
+
+"deaths": 15,
+
+
+"damage": 27703,
+
+
+"healing": 0,
+
+
+"ults": 17,
+
+
+"final_blows": 23
+
+},
+
+{
+
+
+"name": "SoOn",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 85,
+
+
+"deaths": 20,
+
+
+"damage": 40238,
+
+
+"healing": 0,
+
+
+"ults": 19,
+
+
+"final_blows": 31
+
+},
+
+{
+
+
+"name": "SPACE",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 157,
+
+
+"deaths": 22,
+
+
+"damage": 59451,
+
+
+"healing": 0,
+
+
+"ults": 28,
+
+
+"final_blows": 40
+
+},
+
+{
+
+
+"name": "SPREE",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 58,
+
+
+"deaths": 9,
+
+
+"damage": 16896,
+
+
+"healing": 33,
+
+
+"ults": 14,
+
+
+"final_blows": 17
+
+},
+
+{
+
+
+"name": "Stellar",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 141,
+
+
+"deaths": 33,
+
+
+"damage": 36825,
+
+
+"healing": 57261,
+
+
+"ults": 33,
+
+
+"final_blows": 46
+
+},
+
+{
+
+
+"name": "Stitch",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 13,
+
+
+"deaths": 9,
+
+
+"damage": 8662,
+
+
+"healing": 0,
+
+
+"ults": 4,
+
+
+"final_blows": 8
+
+},
+
+{
+
+
+"name": "STRIKER",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 19,
+
+
+"deaths": 8,
+
+
+"damage": 10462,
+
+
+"healing": 0,
+
+
+"ults": 4,
+
+
+"final_blows": 8
+
+},
+
+{
+
+
+"name": "super",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 129,
+
+
+"deaths": 47,
+
+
+"damage": 68684,
+
+
+"healing": 0,
+
+
+"ults": 38,
+
+
+"final_blows": 35
+
+},
+
+{
+
+
+"name": "Surefour",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 208,
+
+
+"deaths": 54,
+
+
+"damage": 131868,
+
+
+"healing": 641,
+
+
+"ults": 64,
+
+
+"final_blows": 55
+
+},
+
+{
+
+
+"name": "SWoN",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 68,
+
+
+"deaths": 39,
+
+
+"damage": 28226,
+
+
+"healing": 0,
+
+
+"ults": 16,
+
+
+"final_blows": 28
+
+},
+
+{
+
+
+"name": "TviQ",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 81,
+
+
+"deaths": 29,
+
+
+"damage": 29873,
+
+
+"healing": 37236,
+
+
+"ults": 23,
+
+
+"final_blows": 21
+
+},
+
+{
+
+
+"name": "Twilight",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 75,
+
+
+"deaths": 17,
+
+
+"damage": 29452,
+
+
+"healing": 30453,
+
+
+"ults": 17,
+
+
+"final_blows": 25
+
+},
+
+{
+
+
+"name": "uNKOE",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 134,
+
+
+"deaths": 48,
+
+
+"damage": 72987,
+
+
+"healing": 93929,
+
+
+"ults": 46,
+
+
+"final_blows": 29
+
+},
+
+{
+
+
+"name": "Void",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 223,
+
+
+"deaths": 39,
+
+
+"damage": 96214,
+
+
+"healing": 19,
+
+
+"ults": 29,
+
+
+"final_blows": 54
+
+},
+
+{
+
+
+"name": "xepheR",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 81,
+
+
+"deaths": 28,
+
+
+"damage": 27249,
+
+
+"healing": 15,
+
+
+"ults": 16,
+
+
+"final_blows": 25
+
+},
+
+{
+
+
+"name": "Yakpung",
+
+
+"role": "tank",
+
+
+"week": "Week 1",
+
+
+"elims": 148,
+
+
+"deaths": 45,
+
+
+"damage": 52891,
+
+
+"healing": 0,
+
+
+"ults": 25,
+
+
+"final_blows": 42
+
+},
+
+{
+
+
+"name": "YOUNGJIN",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 117,
+
+
+"deaths": 54,
+
+
+"damage": 52624,
+
+
+"healing": 32957,
+
+
+"ults": 33,
+
+
+"final_blows": 32
+
+},
+
+{
+
+
+"name": "Yveltal",
+
+
+"role": "support",
+
+
+"week": "Week 1",
+
+
+"elims": 44,
+
+
+"deaths": 36,
+
+
+"damage": 18396,
+
+
+"healing": 38278,
+
+
+"ults": 18,
+
+
+"final_blows": 7
+
+},
+
+{
+
+
+"name": "ZachaREEE",
+
+
+"role": "offense",
+
+
+"week": "Week 1",
+
+
+"elims": 131,
+
+
+"deaths": 58,
+
+
+"damage": 48972,
+
+
+"healing": 83835,
+
+
+"ults": 46,
+
+
+"final_blows": 36
+
+}
+]

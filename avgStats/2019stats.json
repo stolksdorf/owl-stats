@@ -1,0 +1,1382 @@
+[
+	{
+		"name": "Ado",
+		"role": "offense",
+		"elims": 17,
+		"deaths": 12,
+		"damage": 10129,
+		"healing": 24064,
+		"ults": 13,
+		"final_blows": 4
+	},
+	{
+		"name": "Agilities",
+		"role": "offense",
+		"elims": 138,
+		"deaths": 39,
+		"damage": 49837,
+		"healing": 69879,
+		"ults": 40,
+		"final_blows": 31
+	},
+	{
+		"name": "Aid",
+		"role": "support",
+		"elims": 120,
+		"deaths": 41,
+		"damage": 50022,
+		"healing": 68345,
+		"ults": 30,
+		"final_blows": 26
+	},
+	{
+		"name": "AimGod",
+		"role": "support",
+		"elims": 177,
+		"deaths": 66,
+		"damage": 99477,
+		"healing": 127049,
+		"ults": 60,
+		"final_blows": 51
+	},
+	{
+		"name": "aKm",
+		"role": "offense",
+		"elims": 28,
+		"deaths": 12,
+		"damage": 25106,
+		"healing": 395,
+		"ults": 15,
+		"final_blows": 10
+	},
+	{
+		"name": "alemao",
+		"role": "support",
+		"elims": 36,
+		"deaths": 13,
+		"damage": 13227,
+		"healing": 13770,
+		"ults": 9,
+		"final_blows": 5
+	},
+	{
+		"name": "ameng",
+		"role": "tank",
+		"elims": 90,
+		"deaths": 44,
+		"damage": 47479,
+		"healing": 0,
+		"ults": 30,
+		"final_blows": 29
+	},
+	{
+		"name": "Anamo",
+		"role": "support",
+		"elims": 167,
+		"deaths": 16,
+		"damage": 43710,
+		"healing": 55854,
+		"ults": 32,
+		"final_blows": 16
+	},
+	{
+		"name": "Architect",
+		"role": "offense",
+		"elims": 113,
+		"deaths": 17,
+		"damage": 24215,
+		"healing": 33939,
+		"ults": 20,
+		"final_blows": 25
+	},
+	{
+		"name": "Axxiom",
+		"role": "tank",
+		"elims": 202,
+		"deaths": 71,
+		"damage": 105207,
+		"healing": 0,
+		"ults": 52,
+		"final_blows": 49
+	},
+	{
+		"name": "Baconjack",
+		"role": "offense",
+		"elims": 30,
+		"deaths": 19,
+		"damage": 17071,
+		"healing": 62,
+		"ults": 11,
+		"final_blows": 17
+	},
+	{
+		"name": "Bazzi",
+		"role": "offense",
+		"elims": 222,
+		"deaths": 75,
+		"damage": 76205,
+		"healing": 93048,
+		"ults": 60,
+		"final_blows": 53
+	},
+	{
+		"name": "Bdosin",
+		"role": "support",
+		"elims": 154,
+		"deaths": 45,
+		"damage": 77944,
+		"healing": 67551,
+		"ults": 40,
+		"final_blows": 38
+	},
+	{
+		"name": "BEBE",
+		"role": "support",
+		"elims": 159,
+		"deaths": 43,
+		"damage": 74723,
+		"healing": 96515,
+		"ults": 50,
+		"final_blows": 32
+	},
+	{
+		"name": "BenBest",
+		"role": "tank",
+		"elims": 56,
+		"deaths": 27,
+		"damage": 28822,
+		"healing": 0,
+		"ults": 19,
+		"final_blows": 16
+	},
+	{
+		"name": "BigG00se",
+		"role": "support",
+		"elims": 63,
+		"deaths": 33,
+		"damage": 25150,
+		"healing": 23287,
+		"ults": 16,
+		"final_blows": 11
+	},
+	{
+		"name": "BIRDRING",
+		"role": "offense",
+		"elims": 133,
+		"deaths": 36,
+		"damage": 71464,
+		"healing": 95,
+		"ults": 31,
+		"final_blows": 51
+	},
+	{
+		"name": "blase",
+		"role": "offense",
+		"elims": 180,
+		"deaths": 77,
+		"damage": 64030,
+		"healing": 118760,
+		"ults": 66,
+		"final_blows": 40
+	},
+	{
+		"name": "Boink",
+		"role": "support",
+		"elims": 89,
+		"deaths": 35,
+		"damage": 29273,
+		"healing": 48718,
+		"ults": 27,
+		"final_blows": 15
+	},
+	{
+		"name": "Boombox",
+		"role": "support",
+		"elims": 90,
+		"deaths": 26,
+		"damage": 41916,
+		"healing": 41269,
+		"ults": 29,
+		"final_blows": 26
+	},
+	{
+		"name": "bqb",
+		"role": "offense",
+		"elims": 89,
+		"deaths": 31,
+		"damage": 48937,
+		"healing": 756,
+		"ults": 22,
+		"final_blows": 30
+	},
+	{
+		"name": "BUMPER",
+		"role": "tank",
+		"elims": 77,
+		"deaths": 26,
+		"damage": 32088,
+		"healing": 0,
+		"ults": 20,
+		"final_blows": 28
+	},
+	{
+		"name": "carpe",
+		"role": "offense",
+		"elims": 101,
+		"deaths": 23,
+		"damage": 52359,
+		"healing": 0,
+		"ults": 21,
+		"final_blows": 32
+	},
+	{
+		"name": "Chara",
+		"role": "support",
+		"elims": 105,
+		"deaths": 29,
+		"damage": 35319,
+		"healing": 35363,
+		"ults": 21,
+		"final_blows": 21
+	},
+	{
+		"name": "Choihyobin",
+		"role": "tank",
+		"elims": 92,
+		"deaths": 8,
+		"damage": 20702,
+		"healing": 0,
+		"ults": 12,
+		"final_blows": 26
+	},
+	{
+		"name": "Closer",
+		"role": "support",
+		"elims": 37,
+		"deaths": 21,
+		"damage": 15788,
+		"healing": 25994,
+		"ults": 13,
+		"final_blows": 6
+	},
+	{
+		"name": "CoMa",
+		"role": "support",
+		"elims": 74,
+		"deaths": 48,
+		"damage": 28675,
+		"healing": 52636,
+		"ults": 26,
+		"final_blows": 16
+	},
+	{
+		"name": "coolmatt",
+		"role": "tank",
+		"elims": 84,
+		"deaths": 25,
+		"damage": 40098,
+		"healing": 19,
+		"ults": 23,
+		"final_blows": 16
+	},
+	{
+		"name": "Corey",
+		"role": "offense",
+		"elims": 25,
+		"deaths": 16,
+		"damage": 23644,
+		"healing": 0,
+		"ults": 12,
+		"final_blows": 9
+	},
+	{
+		"name": "Daco",
+		"role": "tank",
+		"elims": 78,
+		"deaths": 7,
+		"damage": 22475,
+		"healing": 0,
+		"ults": 4,
+		"final_blows": 24
+	},
+	{
+		"name": "dafran",
+		"role": "offense",
+		"elims": 119,
+		"deaths": 22,
+		"damage": 55884,
+		"healing": 185,
+		"ults": 27,
+		"final_blows": 46
+	},
+	{
+		"name": "Danteh",
+		"role": "offense",
+		"elims": 152,
+		"deaths": 42,
+		"damage": 73502,
+		"healing": 8653,
+		"ults": 39,
+		"final_blows": 45
+	},
+	{
+		"name": "DDing",
+		"role": "offense",
+		"elims": 104,
+		"deaths": 34,
+		"damage": 51245,
+		"healing": 22114,
+		"ults": 35,
+		"final_blows": 35
+	},
+	{
+		"name": "diem",
+		"role": "offense",
+		"elims": 143,
+		"deaths": 59,
+		"damage": 82296,
+		"healing": 313,
+		"ults": 49,
+		"final_blows": 70
+	},
+	{
+		"name": "Dogman",
+		"role": "support",
+		"elims": 66,
+		"deaths": 23,
+		"damage": 20531,
+		"healing": 28152,
+		"ults": 17,
+		"final_blows": 14
+	},
+	{
+		"name": "EFFECT",
+		"role": "offense",
+		"elims": 40,
+		"deaths": 25,
+		"damage": 28372,
+		"healing": 0,
+		"ults": 15,
+		"final_blows": 11
+	},
+	{
+		"name": "Eileen",
+		"role": "offense",
+		"elims": 129,
+		"deaths": 28,
+		"damage": 48625,
+		"healing": 13078,
+		"ults": 34,
+		"final_blows": 42
+	},
+	{
+		"name": "Elsa",
+		"role": "tank",
+		"elims": 108,
+		"deaths": 28,
+		"damage": 49701,
+		"healing": 124,
+		"ults": 23,
+		"final_blows": 42
+	},
+	{
+		"name": "Envy",
+		"role": "tank",
+		"elims": 168,
+		"deaths": 34,
+		"damage": 54972,
+		"healing": 875,
+		"ults": 28,
+		"final_blows": 45
+	},
+	{
+		"name": "eqo",
+		"role": "offense",
+		"elims": 93,
+		"deaths": 25,
+		"damage": 27671,
+		"healing": 44071,
+		"ults": 22,
+		"final_blows": 15
+	},
+	{
+		"name": "Erster",
+		"role": "offense",
+		"elims": 106,
+		"deaths": 18,
+		"damage": 32522,
+		"healing": 22340,
+		"ults": 21,
+		"final_blows": 30
+	},
+	{
+		"name": "Fahzix",
+		"role": "support",
+		"elims": 2,
+		"deaths": 5,
+		"damage": 6247,
+		"healing": 9895,
+		"ults": 4,
+		"final_blows": 0
+	},
+	{
+		"name": "Fate",
+		"role": "tank",
+		"elims": 123,
+		"deaths": 43,
+		"damage": 60617,
+		"healing": 0,
+		"ults": 33,
+		"final_blows": 38
+	},
+	{
+		"name": "Finnsi",
+		"role": "tank",
+		"elims": 88,
+		"deaths": 17,
+		"damage": 22911,
+		"healing": 0,
+		"ults": 19,
+		"final_blows": 15
+	},
+	{
+		"name": "Fissure",
+		"role": "tank",
+		"elims": 116,
+		"deaths": 22,
+		"damage": 46239,
+		"healing": 0,
+		"ults": 24,
+		"final_blows": 42
+	},
+	{
+		"name": "Fleta",
+		"role": "offense",
+		"elims": 123,
+		"deaths": 24,
+		"damage": 52412,
+		"healing": 7556,
+		"ults": 22,
+		"final_blows": 34
+	},
+	{
+		"name": "Fury",
+		"role": "tank",
+		"elims": 195,
+		"deaths": 34,
+		"damage": 69685,
+		"healing": 426,
+		"ults": 36,
+		"final_blows": 64
+	},
+	{
+		"name": "Fusions",
+		"role": "tank",
+		"elims": 175,
+		"deaths": 94,
+		"damage": 100666,
+		"healing": 0,
+		"ults": 57,
+		"final_blows": 59
+	},
+	{
+		"name": "Gamsu",
+		"role": "tank",
+		"elims": 58,
+		"deaths": 31,
+		"damage": 25092,
+		"healing": 0,
+		"ults": 14,
+		"final_blows": 21
+	},
+	{
+		"name": "Gator",
+		"role": "tank",
+		"elims": 16,
+		"deaths": 7,
+		"damage": 7979,
+		"healing": 0,
+		"ults": 5,
+		"final_blows": 7
+	},
+	{
+		"name": "Geguri",
+		"role": "tank",
+		"elims": 133,
+		"deaths": 47,
+		"damage": 50376,
+		"healing": 0,
+		"ults": 28,
+		"final_blows": 35
+	},
+	{
+		"name": "Gesture",
+		"role": "tank",
+		"elims": 146,
+		"deaths": 62,
+		"damage": 62620,
+		"healing": 0,
+		"ults": 36,
+		"final_blows": 43
+	},
+	{
+		"name": "Gido",
+		"role": "support",
+		"elims": 19,
+		"deaths": 13,
+		"damage": 21986,
+		"healing": 25699,
+		"ults": 12,
+		"final_blows": 6
+	},
+	{
+		"name": "GodsB",
+		"role": "offense",
+		"elims": 255,
+		"deaths": 57,
+		"damage": 120560,
+		"healing": 961,
+		"ults": 51,
+		"final_blows": 83
+	},
+	{
+		"name": "Guard",
+		"role": "offense",
+		"elims": 53,
+		"deaths": 11,
+		"damage": 22983,
+		"healing": 166,
+		"ults": 13,
+		"final_blows": 14
+	},
+	{
+		"name": "Guxue",
+		"role": "tank",
+		"elims": 56,
+		"deaths": 25,
+		"damage": 35213,
+		"healing": 0,
+		"ults": 21,
+		"final_blows": 15
+	},
+	{
+		"name": "HaGoPeun",
+		"role": "support",
+		"elims": 73,
+		"deaths": 24,
+		"damage": 33836,
+		"healing": 43239,
+		"ults": 21,
+		"final_blows": 18
+	},
+	{
+		"name": "Haksal",
+		"role": "offense",
+		"elims": 93,
+		"deaths": 19,
+		"damage": 24846,
+		"healing": 31195,
+		"ults": 16,
+		"final_blows": 28
+	},
+	{
+		"name": "Happy",
+		"role": "offense",
+		"elims": 119,
+		"deaths": 32,
+		"damage": 47713,
+		"healing": 19290,
+		"ults": 28,
+		"final_blows": 47
+	},
+	{
+		"name": "HOTBA",
+		"role": "tank",
+		"elims": 134,
+		"deaths": 24,
+		"damage": 50637,
+		"healing": 0,
+		"ults": 25,
+		"final_blows": 47
+	},
+	{
+		"name": "Hydration",
+		"role": "offense",
+		"elims": 65,
+		"deaths": 33,
+		"damage": 30744,
+		"healing": 43386,
+		"ults": 25,
+		"final_blows": 10
+	},
+	{
+		"name": "Hyeonu",
+		"role": "support",
+		"elims": 10,
+		"deaths": 8,
+		"damage": 4171,
+		"healing": 10540,
+		"ults": 5,
+		"final_blows": 2
+	},
+	{
+		"name": "HyP",
+		"role": "support",
+		"elims": 70,
+		"deaths": 19,
+		"damage": 26571,
+		"healing": 39921,
+		"ults": 19,
+		"final_blows": 16
+	},
+	{
+		"name": "iDK",
+		"role": "support",
+		"elims": 171,
+		"deaths": 50,
+		"damage": 57214,
+		"healing": 73543,
+		"ults": 42,
+		"final_blows": 37
+	},
+	{
+		"name": "ivy",
+		"role": "offense",
+		"elims": 171,
+		"deaths": 39,
+		"damage": 76069,
+		"healing": 0,
+		"ults": 33,
+		"final_blows": 64
+	},
+	{
+		"name": "IZaYaKI",
+		"role": "support",
+		"elims": 120,
+		"deaths": 32,
+		"damage": 59143,
+		"healing": 73926,
+		"ults": 38,
+		"final_blows": 33
+	},
+	{
+		"name": "Jake",
+		"role": "offense",
+		"elims": 58,
+		"deaths": 16,
+		"damage": 19966,
+		"healing": 6274,
+		"ults": 12,
+		"final_blows": 17
+	},
+	{
+		"name": "Janus",
+		"role": "tank",
+		"elims": 13,
+		"deaths": 19,
+		"damage": 12106,
+		"healing": 0,
+		"ults": 7,
+		"final_blows": 7
+	},
+	{
+		"name": "Jecse",
+		"role": "support",
+		"elims": 88,
+		"deaths": 17,
+		"damage": 17828,
+		"healing": 40170,
+		"ults": 19,
+		"final_blows": 18
+	},
+	{
+		"name": "JinMu",
+		"role": "offense",
+		"elims": 88,
+		"deaths": 44,
+		"damage": 43412,
+		"healing": 39114,
+		"ults": 34,
+		"final_blows": 29
+	},
+	{
+		"name": "JJANU",
+		"role": "tank",
+		"elims": 104,
+		"deaths": 9,
+		"damage": 26824,
+		"healing": 0,
+		"ults": 8,
+		"final_blows": 29
+	},
+	{
+		"name": "JJONAK",
+		"role": "support",
+		"elims": 168,
+		"deaths": 29,
+		"damage": 77018,
+		"healing": 71157,
+		"ults": 37,
+		"final_blows": 56
+	},
+	{
+		"name": "KariV",
+		"role": "offense",
+		"elims": 109,
+		"deaths": 24,
+		"damage": 56693,
+		"healing": 0,
+		"ults": 23,
+		"final_blows": 36
+	},
+	{
+		"name": "Kellex",
+		"role": "support",
+		"elims": 117,
+		"deaths": 49,
+		"damage": 48588,
+		"healing": 68067,
+		"ults": 35,
+		"final_blows": 21
+	},
+	{
+		"name": "Kodak",
+		"role": "support",
+		"elims": 21,
+		"deaths": 4,
+		"damage": 9138,
+		"healing": 14563,
+		"ults": 6,
+		"final_blows": 6
+	},
+	{
+		"name": "Kris",
+		"role": "support",
+		"elims": 64,
+		"deaths": 25,
+		"damage": 18745,
+		"healing": 21682,
+		"ults": 12,
+		"final_blows": 9
+	},
+	{
+		"name": "Kruise",
+		"role": "support",
+		"elims": 62,
+		"deaths": 23,
+		"damage": 20552,
+		"healing": 20678,
+		"ults": 14,
+		"final_blows": 16
+	},
+	{
+		"name": "KSF",
+		"role": "offense",
+		"elims": 42,
+		"deaths": 6,
+		"damage": 22496,
+		"healing": 0,
+		"ults": 10,
+		"final_blows": 14
+	},
+	{
+		"name": "KuKi",
+		"role": "tank",
+		"elims": 104,
+		"deaths": 32,
+		"damage": 28942,
+		"healing": 46708,
+		"ults": 23,
+		"final_blows": 20
+	},
+	{
+		"name": "Kyo",
+		"role": "support",
+		"elims": 80,
+		"deaths": 35,
+		"damage": 36590,
+		"healing": 55858,
+		"ults": 30,
+		"final_blows": 21
+	},
+	{
+		"name": "lateyoung",
+		"role": "tank",
+		"elims": 64,
+		"deaths": 21,
+		"damage": 33762,
+		"healing": 1189,
+		"ults": 17,
+		"final_blows": 21
+	},
+	{
+		"name": "Libero",
+		"role": "offense",
+		"elims": 172,
+		"deaths": 36,
+		"damage": 45760,
+		"healing": 68779,
+		"ults": 42,
+		"final_blows": 40
+	},
+	{
+		"name": "LiNkzr",
+		"role": "offense",
+		"elims": 94,
+		"deaths": 41,
+		"damage": 36800,
+		"healing": 29971,
+		"ults": 27,
+		"final_blows": 26
+	},
+	{
+		"name": "Luffy",
+		"role": "support",
+		"elims": 124,
+		"deaths": 52,
+		"damage": 69754,
+		"healing": 77215,
+		"ults": 39,
+		"final_blows": 27
+	},
+	{
+		"name": "Mano",
+		"role": "tank",
+		"elims": 163,
+		"deaths": 42,
+		"damage": 69188,
+		"healing": 0,
+		"ults": 44,
+		"final_blows": 44
+	},
+	{
+		"name": "Masaa",
+		"role": "support",
+		"elims": 81,
+		"deaths": 17,
+		"damage": 25151,
+		"healing": 29055,
+		"ults": 18,
+		"final_blows": 13
+	},
+	{
+		"name": "MekO",
+		"role": "tank",
+		"elims": 188,
+		"deaths": 22,
+		"damage": 65915,
+		"healing": 161,
+		"ults": 31,
+		"final_blows": 55
+	},
+	{
+		"name": "Michelle",
+		"role": "tank",
+		"elims": 133,
+		"deaths": 12,
+		"damage": 40180,
+		"healing": 299,
+		"ults": 14,
+		"final_blows": 28
+	},
+	{
+		"name": "moth",
+		"role": "support",
+		"elims": 87,
+		"deaths": 13,
+		"damage": 18065,
+		"healing": 30660,
+		"ults": 15,
+		"final_blows": 19
+	},
+	{
+		"name": "Muma",
+		"role": "tank",
+		"elims": 131,
+		"deaths": 44,
+		"damage": 54049,
+		"healing": 0,
+		"ults": 31,
+		"final_blows": 42
+	},
+	{
+		"name": "Munchkin",
+		"role": "offense",
+		"elims": 115,
+		"deaths": 23,
+		"damage": 37723,
+		"healing": 35380,
+		"ults": 28,
+		"final_blows": 26
+	},
+	{
+		"name": "Nenne",
+		"role": "offense",
+		"elims": 209,
+		"deaths": 21,
+		"damage": 103533,
+		"healing": 0,
+		"ults": 44,
+		"final_blows": 68
+	},
+	{
+		"name": "neptuNo",
+		"role": "support",
+		"elims": 77,
+		"deaths": 26,
+		"damage": 27732,
+		"healing": 25498,
+		"ults": 16,
+		"final_blows": 15
+	},
+	{
+		"name": "Nevix",
+		"role": "tank",
+		"elims": 19,
+		"deaths": 2,
+		"damage": 5726,
+		"healing": 0,
+		"ults": 3,
+		"final_blows": 4
+	},
+	{
+		"name": "NiCOgdh",
+		"role": "offense",
+		"elims": 70,
+		"deaths": 23,
+		"damage": 19130,
+		"healing": 38327,
+		"ults": 18,
+		"final_blows": 16
+	},
+	{
+		"name": "NLaaeR",
+		"role": "offense",
+		"elims": 29,
+		"deaths": 11,
+		"damage": 10186,
+		"healing": 13654,
+		"ults": 7,
+		"final_blows": 6
+	},
+	{
+		"name": "NoSmite",
+		"role": "tank",
+		"elims": 142,
+		"deaths": 50,
+		"damage": 55332,
+		"healing": 0,
+		"ults": 34,
+		"final_blows": 40
+	},
+	{
+		"name": "NotE",
+		"role": "tank",
+		"elims": 214,
+		"deaths": 61,
+		"damage": 94255,
+		"healing": 0,
+		"ults": 57,
+		"final_blows": 77
+	},
+	{
+		"name": "NUS",
+		"role": "support",
+		"elims": 130,
+		"deaths": 37,
+		"damage": 38957,
+		"healing": 63524,
+		"ults": 34,
+		"final_blows": 17
+	},
+	{
+		"name": "OGE",
+		"role": "tank",
+		"elims": 44,
+		"deaths": 38,
+		"damage": 30419,
+		"healing": 0,
+		"ults": 16,
+		"final_blows": 15
+	},
+	{
+		"name": "Poko",
+		"role": "tank",
+		"elims": 92,
+		"deaths": 17,
+		"damage": 34485,
+		"healing": 0,
+		"ults": 20,
+		"final_blows": 26
+	},
+	{
+		"name": "Pokpo",
+		"role": "tank",
+		"elims": 75,
+		"deaths": 23,
+		"damage": 24929,
+		"healing": 0,
+		"ults": 15,
+		"final_blows": 19
+	},
+	{
+		"name": "Profit",
+		"role": "offense",
+		"elims": 165,
+		"deaths": 46,
+		"damage": 55265,
+		"healing": 82728,
+		"ults": 49,
+		"final_blows": 49
+	},
+	{
+		"name": "Rascal",
+		"role": "offense",
+		"elims": 17,
+		"deaths": 4,
+		"damage": 7489,
+		"healing": 2710,
+		"ults": 3,
+		"final_blows": 7
+	},
+	{
+		"name": "Rawkus",
+		"role": "support",
+		"elims": 109,
+		"deaths": 41,
+		"damage": 48380,
+		"healing": 62859,
+		"ults": 33,
+		"final_blows": 38
+	},
+	{
+		"name": "rCk",
+		"role": "tank",
+		"elims": 35,
+		"deaths": 16,
+		"damage": 24140,
+		"healing": 4,
+		"ults": 12,
+		"final_blows": 5
+	},
+	{
+		"name": "Revenge",
+		"role": "support",
+		"elims": 32,
+		"deaths": 13,
+		"damage": 18968,
+		"healing": 31959,
+		"ults": 15,
+		"final_blows": 6
+	},
+	{
+		"name": "Ria",
+		"role": "tank",
+		"elims": 256,
+		"deaths": 55,
+		"damage": 85739,
+		"healing": 0,
+		"ults": 39,
+		"final_blows": 76
+	},
+	{
+		"name": "Rio",
+		"role": "tank",
+		"elims": 133,
+		"deaths": 34,
+		"damage": 51888,
+		"healing": 0,
+		"ults": 34,
+		"final_blows": 38
+	},
+	{
+		"name": "rOar",
+		"role": "tank",
+		"elims": 70,
+		"deaths": 38,
+		"damage": 41349,
+		"healing": 0,
+		"ults": 25,
+		"final_blows": 27
+	},
+	{
+		"name": "RoKy",
+		"role": "support",
+		"elims": 91,
+		"deaths": 36,
+		"damage": 28410,
+		"healing": 44290,
+		"ults": 22,
+		"final_blows": 11
+	},
+	{
+		"name": "ryujehong",
+		"role": "support",
+		"elims": 99,
+		"deaths": 19,
+		"damage": 36395,
+		"healing": 54897,
+		"ults": 28,
+		"final_blows": 27
+	},
+	{
+		"name": "Sado",
+		"role": "tank",
+		"elims": 95,
+		"deaths": 35,
+		"damage": 38482,
+		"healing": 0,
+		"ults": 19,
+		"final_blows": 23
+	},
+	{
+		"name": "Sansam",
+		"role": "tank",
+		"elims": 23,
+		"deaths": 13,
+		"damage": 11770,
+		"healing": 0,
+		"ults": 6,
+		"final_blows": 4
+	},
+	{
+		"name": "SeoMinSoo",
+		"role": "offense",
+		"elims": 77,
+		"deaths": 10,
+		"damage": 33050,
+		"healing": 0,
+		"ults": 12,
+		"final_blows": 32
+	},
+	{
+		"name": "Shaz",
+		"role": "support",
+		"elims": 63,
+		"deaths": 28,
+		"damage": 42452,
+		"healing": 50855,
+		"ults": 28,
+		"final_blows": 18
+	},
+	{
+		"name": "shu",
+		"role": "support",
+		"elims": 118,
+		"deaths": 24,
+		"damage": 40633,
+		"healing": 64520,
+		"ults": 34,
+		"final_blows": 30
+	},
+	{
+		"name": "sinatraa",
+		"role": "offense",
+		"elims": 99,
+		"deaths": 9,
+		"damage": 48275,
+		"healing": 33,
+		"ults": 22,
+		"final_blows": 30
+	},
+	{
+		"name": "sleepy",
+		"role": "support",
+		"elims": 101,
+		"deaths": 7,
+		"damage": 39633,
+		"healing": 47075,
+		"ults": 24,
+		"final_blows": 31
+	},
+	{
+		"name": "SLIME",
+		"role": "support",
+		"elims": 69,
+		"deaths": 9,
+		"damage": 15926,
+		"healing": 31720,
+		"ults": 14,
+		"final_blows": 11
+	},
+	{
+		"name": "Smurf",
+		"role": "tank",
+		"elims": 15,
+		"deaths": 2,
+		"damage": 7221,
+		"healing": 0,
+		"ults": 4,
+		"final_blows": 4
+	},
+	{
+		"name": "SoOn",
+		"role": "offense",
+		"elims": 85,
+		"deaths": 20,
+		"damage": 40238,
+		"healing": 0,
+		"ults": 19,
+		"final_blows": 31
+	},
+	{
+		"name": "SPACE",
+		"role": "tank",
+		"elims": 157,
+		"deaths": 22,
+		"damage": 59451,
+		"healing": 0,
+		"ults": 28,
+		"final_blows": 40
+	},
+	{
+		"name": "SPREE",
+		"role": "tank",
+		"elims": 58,
+		"deaths": 9,
+		"damage": 16896,
+		"healing": 33,
+		"ults": 14,
+		"final_blows": 17
+	},
+	{
+		"name": "Stellar",
+		"role": "offense",
+		"elims": 141,
+		"deaths": 33,
+		"damage": 36825,
+		"healing": 57261,
+		"ults": 33,
+		"final_blows": 46
+	},
+	{
+		"name": "Stitch",
+		"role": "offense",
+		"elims": 13,
+		"deaths": 9,
+		"damage": 8662,
+		"healing": 0,
+		"ults": 4,
+		"final_blows": 8
+	},
+	{
+		"name": "super",
+		"role": "tank",
+		"elims": 80,
+		"deaths": 18,
+		"damage": 33926,
+		"healing": 0,
+		"ults": 18,
+		"final_blows": 18
+	},
+	{
+		"name": "Surefour",
+		"role": "offense",
+		"elims": 63,
+		"deaths": 29,
+		"damage": 45586,
+		"healing": 291,
+		"ults": 25,
+		"final_blows": 14
+	},
+	{
+		"name": "SWoN",
+		"role": "tank",
+		"elims": 68,
+		"deaths": 39,
+		"damage": 28226,
+		"healing": 0,
+		"ults": 16,
+		"final_blows": 28
+	},
+	{
+		"name": "TviQ",
+		"role": "offense",
+		"elims": 81,
+		"deaths": 29,
+		"damage": 29873,
+		"healing": 37236,
+		"ults": 23,
+		"final_blows": 21
+	},
+	{
+		"name": "Twilight",
+		"role": "support",
+		"elims": 75,
+		"deaths": 17,
+		"damage": 29452,
+		"healing": 30453,
+		"ults": 17,
+		"final_blows": 25
+	},
+	{
+		"name": "uNKOE",
+		"role": "support",
+		"elims": 44,
+		"deaths": 29,
+		"damage": 31940,
+		"healing": 46226,
+		"ults": 21,
+		"final_blows": 9
+	},
+	{
+		"name": "Void",
+		"role": "tank",
+		"elims": 73,
+		"deaths": 19,
+		"damage": 38346,
+		"healing": 0,
+		"ults": 14,
+		"final_blows": 21
+	},
+	{
+		"name": "xepheR",
+		"role": "tank",
+		"elims": 81,
+		"deaths": 28,
+		"damage": 27249,
+		"healing": 15,
+		"ults": 16,
+		"final_blows": 25
+	},
+	{
+		"name": "Yakpung",
+		"role": "tank",
+		"elims": 148,
+		"deaths": 45,
+		"damage": 52891,
+		"healing": 0,
+		"ults": 25,
+		"final_blows": 42
+	},
+	{
+		"name": "YOUNGJIN",
+		"role": "offense",
+		"elims": 117,
+		"deaths": 54,
+		"damage": 52624,
+		"healing": 32957,
+		"ults": 33,
+		"final_blows": 32
+	},
+	{
+		"name": "Yveltal",
+		"role": "support",
+		"elims": 44,
+		"deaths": 36,
+		"damage": 18396,
+		"healing": 38278,
+		"ults": 18,
+		"final_blows": 7
+	},
+	{
+		"name": "ZachaREEE",
+		"role": "offense",
+		"elims": 48,
+		"deaths": 34,
+		"damage": 24373,
+		"healing": 34976,
+		"ults": 22,
+		"final_blows": 13
+	}
+]

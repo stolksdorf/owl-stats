@@ -1,0 +1,26 @@
+{
+	"offense": {
+		"elims": 2179,
+		"deaths": 793,
+		"damage": 1049207,
+		"healing": 86447,
+		"ults": 648,
+		"final_blows": 1127
+	},
+	"support": {
+		"elims": 1225,
+		"deaths": 815,
+		"damage": 528294,
+		"healing": 1383002,
+		"ults": 634,
+		"final_blows": 374
+	},
+	"tank": {
+		"elims": 2280,
+		"deaths": 712,
+		"damage": 866371,
+		"healing": 26295,
+		"ults": 502,
+		"final_blows": 782
+	}
+}
