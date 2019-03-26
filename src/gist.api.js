@@ -1,4 +1,4 @@
-const config = require('./config');
+const config = require('../config');
 const tsv = require('./tsv.convert.js');
 const request = require('superagent');
 
@@ -41,4 +41,14 @@ module.exports = {
 			}
 		})
 	},
+
+	test : async ()=>{
+		return gist('patch', {
+			files : {
+				'temp.md' : {
+					content : 'yo'
+				}
+			}
+		})
+	}
 }

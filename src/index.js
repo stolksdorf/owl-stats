@@ -6,7 +6,10 @@ const fs = require('fs');
 
 
 const calculateFantasy = require('./fantasyPoints.js');
-const getWeek = require('./getSeasonWeek.js');
+//const getWeek = require('./getSeasonWeek.js');
+
+const getWeek = ()=>5;
+
 const currentWeek = `Week ${getWeek()}`
 
 
@@ -14,7 +17,7 @@ const saveJSON = (name, data)=>fs.writeFileSync(name, JSON.stringify(data, null,
 const saveTSV = (name, data)=>fs.writeFileSync(name, tsv.toTSV(data), 'utf8');
 
 
-console.log('Fetching Season Stast from OWL: ', currentWeek);
+console.log('Fetching Season Stats from OWL: ', currentWeek);
 
 OWL.fetch(currentWeek)
 	.then((seasonData)=>{
